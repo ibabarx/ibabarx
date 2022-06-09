@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**ibabarx/ibabarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python
@@ -12,6 +8,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: Coding is great, but Football is better !
-
 [![Abdullah's github activity graph](https://activity-graph.herokuapp.com/graph?username=ibabarx&theme=dracula)](https://github.com/ibabarx/github-readme-activity-graph)
+<!--
+**ibabarx/ibabarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
 -->
