@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with Regular Expressions and Dictionary accessing
 - ⚡ Fun fact: Coding is great, but Football is better !
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibabarx&layout=compact"/>
 
 ### GitHub Statistics :chart_with_upwards_trend:
 
