@@ -7,6 +7,9 @@
 
 ### GitHub Statistics :chart_with_upwards_trend:
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibabarx&layout=compact"/>
+
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibabarx"/>
 
 ### Languages Stack :books:
